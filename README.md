@@ -10,3 +10,5 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 Model used:
 Deep learning using keras in R is used to predict the classes of the data.
+
+Note: Unable to upload train dataset due to size restrictions
